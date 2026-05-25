@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authprocess",
+        "uuid": 2270908,
+        "checksum": "bsgo6f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
